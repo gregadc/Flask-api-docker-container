@@ -1,6 +1,0 @@
-Flask==0.10.1
-flask-sqlalchemy==2.2
-flask-migrate==1
-psycopg2
-raven
-blinker
